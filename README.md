@@ -18,7 +18,7 @@ There are two main ways of updating the documentation:
 2. On GitHub:
 
     - Changes can also be made directly on GitHub, however these changes cannot be previewed.
-    - Visit the repository on GitHub [https://github.com/frontiersi/southpan-receiver-docs/](https://github.com/frontiersi/southpan-receiver-docs/).
+    - Visit the repository on GitHub [https://geoscienceaustralia.github.io/SouthPAN-GNSS-Receiver-Documentation/](https://geoscienceaustralia.github.io/SouthPAN-GNSS-Receiver-Documentation/).
     - To edit an existing file, navigate to the file, then click the `edit` button.
     - To create a new file, navigate to the directory to create the file, then click `Add file` &rarr; `Create new file`.
     - To upload a file, navigate to the directory to upload the file, then click `Add file` &rarr; `Upload files`.
